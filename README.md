@@ -15,3 +15,13 @@ This repository contains a Flutter application demonstrating how to implement CR
 
 - Flutter SDK installed on your machine.
 - An IDE or text editor of your choice (e.g., VSCode, Android Studio).
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter_api_crud.git
+
+2. Run this command
+    ```bash
+   flutter pub get
